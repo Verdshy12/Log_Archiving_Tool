@@ -1,4 +1,7 @@
-To make it executable, run on your terminal: chmod +x log_archive_tool.sh
+From Roadmap [https://roadmap.sh/projects/log-archive-tool](https://roadmap.sh/projects/log-archive-tool)
+To make it executable, run on your terminal: 
+    
+    chmod +x log_archive_tool.sh
 You can also run manually from default file path (/var/log):
     
     sudo ./log_archive_tool.sh
