@@ -1,4 +1,4 @@
-Roadmap [https://roadmap.sh/projects/log-archive-tool] (https://roadmap.sh/projects/log-archive-tool)
+Roadmap [https://roadmap.sh/projects/log-archive-tool](https://roadmap.sh/projects/log-archive-tool)
 ---
 # Default log source and archive destination
 LOG_DIR=${1:-/var/log}
